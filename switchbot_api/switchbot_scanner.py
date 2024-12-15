@@ -16,7 +16,7 @@ class SwitchBotScanner:
     # Service UUID
     UNKNOWN_SERVICE_DATA_UUID = "00000d00-0000-1000-8000-00805f9b34fb"
     # Manufacturer ID for Nordic Semiconductors
-    NORDIC_MANUFACTURER_ID = 0x59
+    NORDIC_MANUFACTURER_ID = 0x0969
 
 
     def __init__(self, bot_count : int = 1) -> None:
